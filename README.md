@@ -1,2 +1,2 @@
-# challenges
-some simple web application challenges
+# Challenges
+A range of basic web application challenges.
